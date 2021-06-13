@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Zhe; I make musical filters.
 
-<!--
-**thezhe/thezhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Philosophy
+*Math is free  
+Sound is number one  
+Less is more*
 
-Here are some ideas to get you started:
+## Languages
+- [SOUL](https://github.com/soul-lang/SOUL)
+- C++17
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Milestones
+- [X] BS in Computer Engineering, Boston University (2017-2020)
+- [ ] MS in Electrical Engineering, University of Rochester (2020-present)
+- [ ] Novel audio filter plugins (2021-present)
+- [ ] ?
