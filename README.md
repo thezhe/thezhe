@@ -1,4 +1,5 @@
-# Hi, I'm Zhe; I make musical filters.
+## Hello, Github!
+I'm Zhe; I make musical filters.
 
 ## Philosophy
 *Math is free  
