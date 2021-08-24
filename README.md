@@ -8,6 +8,6 @@ Less is more*
 
 ## Milestones
 - [X] BS in Computer Engineering, Boston University (2017-2020)
-- [ ] MS in Electrical Engineering, University of Rochester (2020-present)
+- [x] MS in Electrical Engineering, University of Rochester (2020-2021)
 - [ ] Novel audio filter plugins (2021-present)
 - [ ] ?
