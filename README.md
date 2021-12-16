@@ -1,5 +1,5 @@
 ## Hello, Github!
-I'm Zhe; I make musical filters.
+I'm Zhe. I make audio effects. I'm currently focusing on [SOUL-VA](https://github.com/thezhe/SOUL-VA).
 
 ## Philosophy
 *Math is free  
@@ -11,3 +11,7 @@ Less is more*
 - [x] MS in Electrical Engineering, University of Rochester (2020-2021)
 - [ ] Novel audio filter plugins (2021-present)
 - [ ] ?
+
+## More TheZhe
+[Videos](https://www.youtube.com/channel/UCCzAmGPoFBER6rsbHwiJPKQ)
+[Project Updates](https://www.instagram.com/thezhedeng/)
