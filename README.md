@@ -13,5 +13,5 @@ Less is more*
 - [ ] ?
 
 ## More TheZhe
-[Videos](https://www.youtube.com/channel/UCCzAmGPoFBER6rsbHwiJPKQ)
+[Videos](https://www.youtube.com/channel/UCCzAmGPoFBER6rsbHwiJPKQ)  
 [Project Updates](https://www.instagram.com/thezhedeng/)
