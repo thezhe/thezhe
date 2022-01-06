@@ -12,6 +12,6 @@ Less is more*
 - [ ] Novel audio filter plugins (2021-present)
 - [ ] ?
 
-## More TheZhe
-[Videos](https://www.youtube.com/channel/UCCzAmGPoFBER6rsbHwiJPKQ)  
+## More TheZhe 
+[Audio Plugins](https://ko-fi.com/thezhe/shop)
 [Project Updates](https://www.instagram.com/thezhedeng/)
