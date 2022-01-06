@@ -1,4 +1,4 @@
-## Hello, Github!
+## Hello, GitHub!
 I'm Zhe. I make audio effects. I'm currently focusing on [SOUL-VA](https://github.com/thezhe/SOUL-VA) and its associated [Audio Plugins](https://ko-fi.com/thezhe/shop).
 
 ## Philosophy
