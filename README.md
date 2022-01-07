@@ -13,6 +13,6 @@ Less is more*
 - [ ] ?
 
 ## More TheZhe 
-[KVR](https://www.kvraudio.com/developer/thezhe)
+[KVR](https://www.kvraudio.com/developer/thezhe)  
 [Project Updates](https://www.instagram.com/thezhedeng/)
 
